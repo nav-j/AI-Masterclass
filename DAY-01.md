@@ -1,12 +1,11 @@
-```md
-# 🤖 AI Masterclass – From Zero to Smart Use
+# AI Masterclass – From Zero to Smart Use
 
 Welcome to the **AI Masterclass**!  
 This repository contains **ready-to-use, beginner-friendly slide content** designed for students, professionals, educators, and anyone curious about Artificial Intelligence — **no technical or coding background required**.
 
 ---
 
-## 📘 Course Overview
+## Course Overview
 
 This masterclass helps learners **understand and confidently use Artificial Intelligence** in daily life, studies, and work.
 
@@ -18,7 +17,7 @@ Participants will learn:
 
 ---
 
-## 🎯 What You’ll Learn in 5 Days
+## What You’ll Learn in 5 Days
 
 - Understand AI in simple, easy language  
 - Create content using AI (posts, emails, resumes)  
@@ -29,7 +28,7 @@ Participants will learn:
 
 ---
 
-## 👥 Who This Course Is For
+## Who This Course Is For
 
 - Students & Freshers  
 - Teachers & Trainers  
@@ -40,16 +39,16 @@ Participants will learn:
 
 ---
 
-## 📑 Slide Structure & Content
+## Slide Structure & Content
 
-### 🟢 Slide 1: Welcome to AI Masterclass
+### Slide 1: Welcome to AI Masterclass
 - Course introduction
 - Learning objectives
 - Target audience
 
 ---
 
-### 🟢 Slide 2: What is Artificial Intelligence?
+### Slide 2: What is Artificial Intelligence?
 - Simple definition of AI
 - Real-life examples
 - Human Intelligence vs Machine Intelligence
@@ -57,7 +56,7 @@ Participants will learn:
 
 ---
 
-### 🟢 Types of Artificial Intelligence
+### Types of Artificial Intelligence
 - **Narrow AI (Weak AI)** – Exists today
 - **General AI (Strong AI)** – Under research
 - **Super AI** – Future concept
@@ -66,7 +65,7 @@ Participants will learn:
 
 ---
 
-### 🟢 AI Examples from Daily Life
+### AI Examples from Daily Life
 - AI in smartphones
 - AI on the internet
 - AI on social media
@@ -76,7 +75,7 @@ Participants will learn:
 
 ---
 
-### 🟢 AI vs ML vs Automation
+### AI vs ML vs Automation
 - Clear comparison table
 - Easy real-life examples
 - Simple way to remember:
@@ -86,7 +85,7 @@ Participants will learn:
 
 ---
 
-### 🟢 Where Do We Use AI?
+### Where Do We Use AI?
 - Google Search
 - Social Media
 - Smartphones
@@ -95,7 +94,7 @@ Participants will learn:
 
 ---
 
-### 🟢 Myths & Facts About AI
+### Myths & Facts About AI
 - Myth: AI will replace humans  
   - Fact: AI supports humans  
 - Myth: AI requires coding  
@@ -104,7 +103,7 @@ Participants will learn:
 
 ---
 
-### 🟢 Future of Artificial Intelligence
+### Future of Artificial Intelligence
 - Career opportunities in AI
 - Industries using AI
 - Impact of AI on jobs
@@ -113,7 +112,7 @@ Participants will learn:
 
 ---
 
-### 🟢 Practical Activity: Using AI in Daily Life
+### Practical Activity: Using AI in Daily Life
 
 #### Activity 1: Ask AI Simple Questions
 Examples:
@@ -134,12 +133,12 @@ Examples:
 
 ---
 
-## 🧠 Key Tip
+## Key Tip
 > The better your question, the better AI’s answer.
 
 ---
 
-## 📌 Optional Add-ons (Available on Request)
+##  Optional Add-ons (Available on Request)
 - Student worksheet (PDF)
 - Live demo / trainer script
 - Beginner-only prompt list
@@ -147,10 +146,7 @@ Examples:
 
 ---
 
-## 🚀 Final Message
+## Final Message
 
 AI is not the future — **AI is already here**.  
 Learn it, use it, and grow with it.
-
-Happy Learning! 🎉
-```
