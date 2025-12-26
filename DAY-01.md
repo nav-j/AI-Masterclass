@@ -138,14 +138,6 @@ Examples:
 
 ---
 
-##  Optional Add-ons (Available on Request)
-- Student worksheet (PDF)
-- Live demo / trainer script
-- Beginner-only prompt list
-- Homework or assessment slides
-
----
-
 ## Final Message
 
 AI is not the future — **AI is already here**.  
