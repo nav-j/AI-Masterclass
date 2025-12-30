@@ -167,76 +167,72 @@ Thank you for listening to this AI Masterclass session.
 ---
 
 
-Here’s a **comprehensive list of top AI audio tools** you can use for **voice, speech, narration, music and more** — perfect for your AI masterclass or creative projects.
+## **AI Voice & Speech Generation Tools**
 
----
-
-## 🧠 **AI Voice & Speech Generation Tools**
-
-### 🎙️ **ElevenLabs**
+### **ElevenLabs**
 
 * Industry-leading AI voice generator with **very realistic human-like TTS** (text-to-speech) and voice cloning.
 * Supports multilingual voices, emotional control, and dubbing features. ([devchunk.com][1])
 
-### 🌐 **PlayHT**
+### **PlayHT**
 
 * AI text-to-speech with **900+ voices and 100+ languages**, expressive tones, speed & style control — great for podcasts or videos. ([Earticleblog][2])
 
-### 🗣️ **Murf.ai**
+### **Murf.ai**
 
 * Voice generation with **editing tools**, pitch/speed controls, dubbing, and voice cloning. Works well for presentations & content creation. ([DigitalOcean][3])
 
-### 🧑‍💻 **Typecast**
+### **Typecast**
 
 * AI voice and avatar creation platform that lets you generate expressive speech and video content from text. ([Wikipedia][4])
 
-### 🍏 **Google Docs AI Voice Reader**
+### **Google Docs AI Voice Reader**
 
 * Built-in TTS feature for listening to documents aloud, enhancing accessibility and proofreading workflows. ([The Times of India][5])
 
-### ☁️ **Amazon Polly**
+### **Amazon Polly**
 
 * Cloud-based TTS service with **100+ voices across many languages**, used by apps like Duolingo. ([Wikipedia][6])
 
-### 🛠️ **Adobe Enhanced Speech**
+### **Adobe Enhanced Speech**
 
 * AI tool to **clean and enhance recorded speech quality** to near-studio levels — ideal for podcasts and interviews. ([Wikipedia][7])
 
 ---
 
-## 🎶 **AI Music & Sound Generation Tools**
+## **AI Music & Sound Generation Tools**
 
-### 🎼 **Suno**
+### **Suno**
 
 * AI music generator capable of producing **original songs with vocals and instrumentation** from a text prompt. ([Wikipedia][8])
 
-### 🎵 **Udio**
+### **Udio**
 
 * AI platform for generating music tracks based on text prompts, including vocal and instrumental pieces. ([Wikipedia][9])
 
-### 🔊 **Mubert**
+### **Mubert**
 
 * Generates **infinite adaptive soundtracks** — ideal for background music in apps, videos, or games. ([WiseSage.AI][10])
 
-### 🎹 **Soundraw**
+### **Soundraw**
 
 * Customizable music generator where you set genre, tempo, and instruments — perfect for video soundtracks. ([WiseSage.AI][10])
 
-### 🎤 **Synthesizer V Studio 2 Pro**
+### **Synthesizer V Studio 2 Pro**
 
 * AI vocal tool for generating **sung vocals** from MIDI and lyrics with detailed expression controls. ([Sonarworks][11])
 
-### 🎧 **SoundID VoiceAI**
+### **SoundID VoiceAI**
 
 * Voice transformation and style-based vocal processing within DAWs — different from generation but powerful for creative manipulation. ([Sonarworks][11])
 
-### 🗣️ **Respeecher**
+### **Respeecher**
 
 * AI-powered **voice cloning** for high-quality speech/dubbing in film, games, and audio productions. ([Sonarworks][11])
 
 ---
 
-## 📌 **Types of Audio AI Tools and Use Cases**
+## **Types of Audio AI Tools and Use Cases**
 
 | Category                  | Best For                                 |
 | ------------------------- | ---------------------------------------- |
