@@ -1,8 +1,8 @@
 
 
-## 🎥 **Free AI Video Creation Tools You Can Try**
+## **Free AI Video Creation Tools You Can Try**
 
-### 🆓 Free or Freemium AI Video Generators
+### Free or Freemium AI Video Generators
 
 1. **Bing Video Creator (Sora model)**
 
