@@ -41,7 +41,7 @@
 
 ---
 
-### 🧠 Other Free Tools for Video Creation & Editing
+### Other Free Tools for Video Creation & Editing
 
 These aren’t AI video *generators* but great if you want to combine clips or polish creations:
 
@@ -51,7 +51,7 @@ These aren’t AI video *generators* but great if you want to combine clips or p
 
 ---
 
-## 🧠 Tips for Creating AI Videos for Free
+## Tips for Creating AI Videos for Free
 
 ✨ **Combine tools** — e.g., generate clips with an AI text-to-video tool, then edit/join them in OpenShot or CapCut.
 ✨ **Use free credits or trials** — some AI tools give free credits that let you export a few videos before paying. ([Reddit][10])
@@ -59,7 +59,7 @@ These aren’t AI video *generators* but great if you want to combine clips or p
 
 ---
 
-## 🚀 Quick Summary
+## Quick Summary
 
 | Use Case                      | Free Option                            |
 | ----------------------------- | -------------------------------------- |
